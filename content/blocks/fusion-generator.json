@@ -12,7 +12,7 @@
 			"items": [
 				{ "item": "blast-compound", "amount": 1 },
         { "item": "thorium", "amount": 2 },
-        { "item": "phase-fabric", "amount": 0.5 }
+        { "item": "phase-fabric", "amount": 1 }
 			],
 			"optional": true
 		}
