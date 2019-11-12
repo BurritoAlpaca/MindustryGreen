@@ -5,6 +5,8 @@
 	"size": 2,
 	"hasPower": true,
 	"hasItems": true,
+	"hasLiquids": true,
+	"LiquidCapacity": 50,
 	"itemDuration": 30,
 	"powerProduction": 150,
 	"consumes": {
