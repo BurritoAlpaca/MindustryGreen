@@ -1,0 +1,13 @@
+{
+	"type": "Conveyor",
+	"name": "Trinium conveyor",
+	"description": "A fast conveyor, has no armour to increase delivery rate",
+	"requirements": [
+		{"item": "titanium", "amount": 3},
+		{"item": "copper", "amount": 3},
+		{"item": "trinium", "amount": 6}
+	],
+	"category": "distribution",
+	"speed": 0.5,
+	"research": "titanium-conveyor"
+}
