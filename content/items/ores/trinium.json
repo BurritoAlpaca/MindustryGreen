@@ -1,0 +1,9 @@
+ 
+{
+	"type": "material",
+	"name": "Trinium",
+	"description": "A resource of unkown origins.",
+	"hardness": 3,
+	"cost": 4.0,
+	"color": "2eb218"
+}
