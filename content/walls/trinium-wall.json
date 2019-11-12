@@ -1,0 +1,12 @@
+{
+	"name": "Trinium Wall",
+	"description": "A wall made of trinium. Incrediably durable.",
+	"type": "Wall",
+	"health": 1500,
+	"size": 1,
+	"requirements": [
+		{ "item": "trinium", "amount": 8 }
+	],
+	"category": "defense",
+	"research": "thorium-wall"
+}
