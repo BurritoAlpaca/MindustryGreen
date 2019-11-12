@@ -1,0 +1,12 @@
+{
+	"name": "Large Trinium Wall",
+	"description": "A larger version of the Trinium wall.",
+	"type": "Wall",
+	"health": 6000,
+	"size": 2,
+	"requirements": [
+		{ "item": "trinium", "amount": 32 }
+	],
+	"category": "defense",
+	"research": "trinium-wall"
+}
