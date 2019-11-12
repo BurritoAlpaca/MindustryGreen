@@ -7,13 +7,13 @@
 	"hasItems": true,
 	"hasLiquids": true,
 	"LiquidCapacity": 50,
-	"itemDuration": 30,
-	"powerProduction": 150,
+	"itemDuration": 60,
+	"powerProduction": 160,
 	"consumes": {
 		"items": {
 			"items": [
-				{ "item": "blast-compound", "amount": 1 },
-        { "item": "thorium", "amount": 2 },
+				{ "item": "blast-compound", "amount": 2 },
+        { "item": "thorium", "amount": 4 },
         { "item": "phase-fabric", "amount": 1 }
 			],
 			"optional": true
