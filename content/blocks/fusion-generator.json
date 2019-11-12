@@ -6,7 +6,7 @@
 	"hasPower": true,
 	"hasItems": true,
 	"itemDuration": 30,
-	"powerProduction": 30,
+	"powerProduction": 150,
 	"consumes": {
 		"items": {
 			"items": [
