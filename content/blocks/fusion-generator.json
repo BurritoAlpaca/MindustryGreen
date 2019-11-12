@@ -1,7 +1,7 @@
  {
-	"type": "SingleTypeGenerator",
+	"type": "TripleTypeGenerator",
 	"name": "Fusion Generator",
-	"description": "combines thorium and phase fabric to produce massive amounts of power. requires blastanium to sustain the reaction.",
+	"description": "Combines thorium and phase fabric to produce massive amounts of power. Requires blastanium to sustain the reaction.",
 	"size": 2,
 	"hasPower": true,
 	"hasItems": true,
