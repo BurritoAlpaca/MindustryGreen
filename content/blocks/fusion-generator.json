@@ -8,7 +8,6 @@
 	"itemDuration": 60,
 	"powerProduction": 160,
 	"consumes": {
-		"liquids"{
 		     "items": {
 			"items": [
 				{ "item": "blast-compound", "amount": 2 },
