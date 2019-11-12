@@ -1,0 +1,28 @@
+ {
+	"type": "SingleTypeGenerator",
+	"name": "Fusion Generator",
+	"description": "combines thorium and phase fabric to produce massive amounts of power. requires blastanium to sustain the reaction.",
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"itemDuration": 30,
+	"powerProduction": 30,
+	"consumes": {
+		"items": {
+			"items": [
+				{ "item": "blast-compound", "amount": 1 },
+        { "item": "thorium", "amount": 2 },
+        { "item": "phase-fabric", "amount": 0.5 }
+			],
+			"optional": true
+		}
+	},
+	"requirements": [
+		{ "item": "trinium", "amount": 120 },
+		{ "item": "silicon", "amount": 150 },
+		{ "item": "titanium", "amount": 300 },
+    { "item": "plastanium", "amount": 40 }
+	],
+	"category": "power",
+	"research": "impact-reactor"
+}
