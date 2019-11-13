@@ -1,1 +1,35 @@
-
+{
+	"type": "GenericSmelter",
+	"name": "Trinium Compressor",
+	"description": "Combines trinium and graphite to produce trinite.",
+	"liquidCapacity": 50,
+	"outputItem": {"item": "trinite", "amount": 1},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"craftTime": 30,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 0.7,
+		"items": {
+			"items": [
+				{ "item": "trinium", "amount": 2 }
+			]
+		},
+		"liquid": {
+			"liquid": "molten-silver",
+			"amount": 1.0
+		}
+	},
+	"requirements": [
+		{ "item": "lead", "amount": 50 },
+		{ "item": "thorium", "amount": 80 },
+		{ "item": "silicon", "amount": 60 },
+		{ "item": "silver", "amount": 50 }
+	],
+	"category": "crafting",
+	"research": "silver-crucible",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}
