@@ -14,11 +14,12 @@
 		"power": 0.7,
 		"items": {
 			"items": [
-				{ "item": "trinium", "amount": 2 }
+				{ "item": "trinium", "amount": 2 },
+				{ "item": "graphite", "amount": 1 }
 			]
 		},
 		"liquid": {
-			"liquid": "molten-silver",
+			"liquid": "water"
 			"amount": 1.0
 		}
 	},
