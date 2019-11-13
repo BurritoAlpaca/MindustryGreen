@@ -27,6 +27,4 @@
 	],
 	"category": "crafting",
 	"research": "graphite-press",
-	"idleSound": "respawning",
-	"idleSoundVolume": 0.5
 }
