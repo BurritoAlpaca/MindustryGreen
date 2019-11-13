@@ -1,0 +1,7 @@
+{
+	"type": "material",
+	"name": "Trinite",
+	"description": "An alloy of Graphite and Trinium.",
+	"cost": 2,
+	"color": "#53ff00"
+}
