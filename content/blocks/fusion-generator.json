@@ -16,6 +16,10 @@
 			],
 			"optional": false
 		}
+		"liquid": {
+			"liquid": "cryofluid",
+			"amount": 1.0
+	        }
 	},
 	"requirements": [
 		{ "item": "trinium", "amount": 120 },
