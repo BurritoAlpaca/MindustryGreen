@@ -1,0 +1,17 @@
+{
+	"type": "flyingUnit",
+	"name": "Electrode",
+	"description": "A light flying unit that can 'distribute' lightning to your enemies.",
+	"speed": "0.25",
+	"flying": true,
+	"health": "200",
+	"engineOffset": 5.5,
+	"range": 160,
+	"weapon": {
+		"name": "trinium-conductor",
+		"length": 1.5,
+		"reload": 10,
+		"alternate": true,
+		"bullet": "lightning"
+	}
+}
