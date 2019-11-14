@@ -1,4 +1,4 @@
-# Mindustry Overhaul
+# Mindustry+
 
 A mod that brings new items, buildings weapon amunition and more into the game!
 
