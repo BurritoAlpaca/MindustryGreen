@@ -16,7 +16,7 @@
 			],
 			"optional": false
 		}
-		"liquid" {
+		"liquid": {
 			"liquid": "cryofluid",
 			"amount": 1.0
 	        }
