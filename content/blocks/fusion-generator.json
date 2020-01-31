@@ -15,7 +15,7 @@
 				{ "item": "phase-fabric", "amount": 1 }
 			],
 			"optional": false
-		}
+		},
 		"liquid": {
 			"liquid": "cryofluid",
 			"amount": 1.0
