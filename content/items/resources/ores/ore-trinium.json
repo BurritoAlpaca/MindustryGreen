@@ -1,4 +1,6 @@
-{
-	"type": "OreBlock",
-	"itemDrop": "trinium"
-}
+type: material
+name: Trinium Ore
+description: A glowing green ore, found near radioactive areas.
+hardness: 3
+cost: 2
+color: #5FF944
