@@ -1,0 +1,19 @@
+size: 2
+update: true
+solid: true
+hasItems: true
+configurable: true
+localizedName: "Purger"
+description: "a manual purge initiator"
+category: turret
+requirements: [
+    graphite/75,
+    trinium/30
+]
+consumes: {
+    items: {
+        items: [
+            trinium/10
+        ]
+    }
+}
