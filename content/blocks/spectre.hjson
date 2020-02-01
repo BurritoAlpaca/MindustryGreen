@@ -20,7 +20,7 @@ ammo: {
     //2 bullets per electrum item
     ammoMultiplier: 3
     //visual bullet front and back
-    backColor: 5397B2
+    backColor: 0986B7
     frontColor: 36FF52
   }
 }
