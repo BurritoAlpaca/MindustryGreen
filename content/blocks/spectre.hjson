@@ -3,7 +3,7 @@ ammo: {
   pyratite: standardIncendiary
   thorium: standardDense
   
-  trinite: {
+  Trinite: {
     speed: 5.0
     damage: 75
     reloadMultiplier: 1.25
