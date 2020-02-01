@@ -15,8 +15,8 @@ ammo: {
     //visual size - does not affect hitbox
     bulletWidth: 10
     bulletHeight: 14
-    shootEffect: shootSmall
-    smokeEffect: shootSmallSmoke
+    shootEffect: shootBig
+    smokeEffect: shootBigSmoke
     //2 bullets per electrum item
     ammoMultiplier: 3
     //visual bullet front and back
