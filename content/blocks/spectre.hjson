@@ -16,7 +16,6 @@ ammo: {
   
   //define a custom type with different properties
   trinite-rod: {
-    bulletType: frag
     //move 6 world units per frame (very fast)
     speed: 5.0
     damage: 75
