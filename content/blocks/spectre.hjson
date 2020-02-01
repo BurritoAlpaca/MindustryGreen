@@ -14,5 +14,5 @@ ammo: {
     ammoMultiplier: 3
     backColor: 36FF52
     frontColor: FF2FAD
- }
+  }
 }
