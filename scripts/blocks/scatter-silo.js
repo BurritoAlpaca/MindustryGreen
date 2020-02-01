@@ -1,12 +1,9 @@
-
 const siloLaunchEffect = newEffect(20, e => {
     Draw.color(Color.white, Color.lightGray, e.fin());
     Lines.stroke(e.fout() * 3);
     Lines.circle(e.x, e.y, e.fin() * 100);
 });
-
-
-const purger = extendContent(Block, "purger", {
+const silo = extendContent(Block, "scatter-silo", {
     buildConfiguration(tile, table){
         table.addImageButton(Icon.arrowUpSmall, Styles.clearTransi, run(() => {
             tile.configure(0)
