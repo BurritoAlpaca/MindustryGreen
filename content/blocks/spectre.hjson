@@ -1,0 +1,26 @@
+//define ammo, which is done by assigning a bullet type per item
+ammo: {
+  //re-define old types of ammo
+  graphite: standardDense
+  pyratite: standardIncendiary
+  thorium: standardDense
+  
+  //define a custom type with different properties
+  trinite: {
+    //move 6 world units per frame (very fast)
+    speed: 5.0
+    damage: 75
+    //0.5x reload time, so 2x shoot speed
+    reloadMultiplier: 1.2
+    //visual size - does not affect hitbox
+    bulletWidth: 10
+    bulletHeight: 14
+    shootEffect: shootLarge
+    smokeEffect: shootMediumSmoke
+    //2 bullets per electrum item
+    ammoMultiplier: 3
+    //visual bullet front and back
+    backColor: 36FF52
+    frontColor: FF0181
+  }
+}
