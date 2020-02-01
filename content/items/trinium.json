@@ -3,6 +3,6 @@
 	"name": "Trinium",
 	"description": "A resource found near places with low radiation.",
 	"hardness": 4,
-	"cost": 4.0,
+	"cost": 6.0,
 	"color": "2eb218"
 }
