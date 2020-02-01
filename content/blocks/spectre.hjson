@@ -10,7 +10,7 @@ ammo: {
     bulletWidth: 10
     bulletHeight: 14
     shootEffect: shootLarge
-    smokeEffect: medium
+    smokeEffect: shootMediumSmoke
     ammoMultiplier: 3
     backColor: 36FF52
     frontColor: FF2FAD
