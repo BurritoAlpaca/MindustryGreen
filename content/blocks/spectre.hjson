@@ -6,7 +6,7 @@ ammo: {
   thorium: standardDense
   
   //define a custom type with different properties
-  trinite: {
+  trinite-rod: {
     //move 6 world units per frame (very fast)
     speed: 5.0
     damage: 75
