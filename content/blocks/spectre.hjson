@@ -2,12 +2,20 @@
 ammo: {
   //re-define old types of ammo
   graphite: {
-    
-  pyratite: standardIncendiary
+    speed: 6.0
+    damage: 42
+    reloadMultiplier: 1
+    bulletWidth: 10
+    bulletHeight: 14
+    shootEffect: shootBig
+    smokeEffect: shootBigSmoke
+    ammoMultiplier: 2
+  pyratite: spectreIncendiary
   thorium: standardDense
   
   //define a custom type with different properties
   trinite-rod: {
+    bulletType: frag
     //move 6 world units per frame (very fast)
     speed: 5.0
     damage: 75
