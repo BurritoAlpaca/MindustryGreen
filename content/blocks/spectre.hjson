@@ -10,6 +10,7 @@ ammo: {
     shootEffect: shootBig
     smokeEffect: shootBigSmoke
     ammoMultiplier: 2
+   }
   pyratite: spectreIncendiary
   thorium: standardDense
   
