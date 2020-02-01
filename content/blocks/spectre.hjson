@@ -11,12 +11,12 @@ ammo: {
     speed: 5.0
     damage: 75
     //0.5x reload time, so 2x shoot speed
-    reloadMultiplier: 1.2
+    reloadMultiplier: 1
     //visual size - does not affect hitbox
     bulletWidth: 10
     bulletHeight: 14
-    shootEffect: shootLarge
-    smokeEffect: shootMediumSmoke
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
     //2 bullets per electrum item
     ammoMultiplier: 3
     //visual bullet front and back
