@@ -1,9 +1,8 @@
- 
 {
 	"type": "material",
 	"name": "Trinium",
 	"description": "A resource found near places with low radiation.",
-	"hardness": 3,
+	"hardness": 4,
 	"cost": 4.0,
 	"color": "2eb218"
 }
