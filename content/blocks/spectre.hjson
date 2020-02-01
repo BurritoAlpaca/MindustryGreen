@@ -1,18 +1,9 @@
 //define ammo, which is done by assigning a bullet type per item
 ammo: {
   //re-define old types of ammo
-  graphite: {
-    speed: 6.0
-    damage: 42
-    reloadMultiplier: 1
-    bulletWidth: 10
-    bulletHeight: 14
-    shootEffect: shootBig
-    smokeEffect: shootBigSmoke
-    ammoMultiplier: 2
-   }
+  graphite: spectreDense
   pyratite: spectreIncendiary
-  thorium: standardDense
+  thorium: standardThorium
   
   //define a custom type with different properties
   trinite-rod: {
