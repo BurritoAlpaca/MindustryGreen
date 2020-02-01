@@ -1,0 +1,18 @@
+ammo: {
+  graphite: standardDense
+  pyratite: standardIncendiary
+  thorium: standardDense
+  
+  electrum: {
+    speed: 5.0
+    damage: 75
+    reloadMultiplier: 1.25
+    bulletWidth: 10
+    bulletHeight: 14
+    shootEffect: shootLarge
+    smokeEffect: medium
+    ammoMultiplier: 3
+    backColor: 36FF52
+    frontColor: FF2FAD
+ }
+}
