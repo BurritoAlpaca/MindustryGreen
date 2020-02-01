@@ -1,7 +1,8 @@
 //define ammo, which is done by assigning a bullet type per item
 ammo: {
   //re-define old types of ammo
-  graphite: standardDense
+  graphite: {
+    
   pyratite: standardIncendiary
   thorium: standardDense
   
