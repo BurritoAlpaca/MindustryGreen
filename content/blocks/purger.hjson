@@ -3,7 +3,7 @@ update: true
 solid: true
 hasItems: true
 configurable: true
-localizedName: "Purger"
+localizedName: "purger"
 description: "a manual purge initiator"
 category: turret
 requirements: [
