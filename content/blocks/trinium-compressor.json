@@ -1,8 +1,8 @@
 {
 	"type": "GenericSmelter",
-	"name": "Trinium Compressor",
-	"description": "Combines trinium and graphite to produce trinite.",
-	"outputItem": {"item": "trinite", "amount": 1},
+	"name": "Trinium Refinery",
+	"description": "loads trinium into graphite shells to contain radiation.",
+	"outputItem": {"item": "trinite-rod", "amount": 1},
 	"size": 3,
 	"hasPower": true,
 	"hasItems": true,
