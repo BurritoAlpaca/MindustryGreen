@@ -1,0 +1,24 @@
+ 
+name: Trinium Drill
+description: An unpowered drill capable of mining most ores.
+type: Drill
+size: 3
+tier: 3
+drillTime: 200
+consumes: {
+  liquid: {
+    liquid: water
+    amount: 1.6
+    booster: true
+    liquid: cryofluid
+    amount: 2.4
+    booster: true
+  }
+}
+requirements: [
+  trinium/75
+  titanium/30
+  phase/40
+]
+category: production
+research: laser-drill
