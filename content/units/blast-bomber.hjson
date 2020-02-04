@@ -1,0 +1,17 @@
+type: flyingUnit
+name: Blast Bomber
+description: A flying explosive
+speed: 1
+flying: true
+health: 30
+engineOffset: 5
+range: 10
+weapon: { 
+  name: explosive-pack 
+  length: 0
+  reload: 10 
+  alternate: true 
+  bullet: bombExplosive
+}
+
+
