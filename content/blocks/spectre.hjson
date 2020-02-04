@@ -3,7 +3,7 @@ ammo: {
   //re-define old types of ammo
   graphite: standardDenseBig
   pyratite: standardIncendiaryBig
-  thorium: standardDenseBig
+  thorium: standardThoriumBig
   
   //define a custom type with different properties
   trinite-rod: {
