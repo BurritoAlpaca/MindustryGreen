@@ -12,6 +12,7 @@ ammo: {
     damage: 75
     //0.5x reload time, so 2x shoot speed
     reloadMultiplier: 1
+    splashDamageRadius: 12
     //visual size - does not affect hitbox
     bulletWidth: 10
     bulletHeight: 14
