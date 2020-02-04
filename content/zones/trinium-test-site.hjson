@@ -12,7 +12,7 @@ launchPeriod: 10
 requirements: [
   {
     type: ZoneWave
-    zone: zone-nuclearComplex
+    zone: nuclearProductionComplex
     wave: 40
   }
   {
