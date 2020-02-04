@@ -12,6 +12,7 @@ weapon: {
   reload: 10 
   alternate: true 
   bullet: bombExplosive
+  killshooter: true
 }
 
 
