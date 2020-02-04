@@ -16,7 +16,7 @@ consumes: {
 requirements: [
   trinium/75
   titanium/30
-  phase/40
+  phase-fabric/40
 ]
 category: production
 research: laser-drill
