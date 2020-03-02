@@ -31,4 +31,7 @@ resources: [
   coal
   trinium
   titanium
+  scrap
+  sand
+  water
 ]
