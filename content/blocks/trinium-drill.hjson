@@ -3,7 +3,7 @@ name: Trinium Drill
 description: An unpowered drill capable of mining most ores.
 type: Drill
 size: 4
-tier: 3
+tier: 5
 drillTime: 200
 consumes: {
   liquid: {
