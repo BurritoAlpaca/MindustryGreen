@@ -18,7 +18,7 @@ ammo: {
     bulletHeight: 14
     shootEffect: shootBig
     smokeEffect: shootBigSmoke
-    //2 bullets per electrum item
+    //2 bullets per trinite rod
     ammoMultiplier: 3
     //visual bullet front and back
     backColor: 0986B7
