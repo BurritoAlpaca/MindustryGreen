@@ -6,6 +6,7 @@ flying: true
 health: 30
 engineOffset: 5
 range: 100
+killshooter: true
 weapon: { 
   name: explosive-pack 
   length: 0
