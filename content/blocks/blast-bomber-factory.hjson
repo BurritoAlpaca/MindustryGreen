@@ -1,5 +1,5 @@
 name: Blast Bomber Factory
-description: Makes Bombers that blow up on contact with enemies
+description: Makes Bombers that do not do much damage but are a good distraction for enemies
 type: UnitFactory
 unitType: blast-bomber
 size: 2
