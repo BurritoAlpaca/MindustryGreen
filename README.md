@@ -7,6 +7,6 @@ A mod that brings new items, buildings weapon amunition and more into the game!
 Designed and created by BurritoAlpaca and Arkanic on github.com
 
 Please note:
-The support for this mod will soon be going into another mod that I plan to start working on soon. 
-If you have any issues please open an issue folder and I will try my best to get it fixed as soon as possible.
+This mod is not intergrated into the campaign and is only meant for sandbox style games.
+The support for this mod has dissappeared and has gone into other projects that I am working on. Sorry for this unfinished mod.
 Hope you enjoy!
